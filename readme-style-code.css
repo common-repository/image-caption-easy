@@ -1,0 +1,23 @@
+/* 
+Style Sheet code for Image Caption Easy Plugin for WordPress
+Copy and Paste this code into your WordPress theme style sheet file (style.css) then upload to its location.
+You can edit any of these to suit your needs.
+*/
+.imagecaptioneasy {
+  padding: 5px;
+  font-family: arial,helvetica,sans-serif;
+  font-size: 10px;
+  line-height: 1.15em;
+  text-align: center;
+  border: 1px solid #808080;
+  background: #EAEAEA;
+  color: #333;
+}
+.imagecaptioneasy img { border: 0px solid #fff; margin-bottom:5px; }
+.imagecaptioneasy span { text-align: center; }
+.imagecaptioneasy_top_left { margin: 0 11px 11px 0; float: left; }
+.imagecaptioneasy_top_right { margin: 0 0 11px 11px; float: right; }
+.imagecaptioneasy_top_nowrap { margin: 0 0 11px 0; float: none; }
+.imagecaptioneasy_left { margin: 11px 11px 11px 0; float: left; }
+.imagecaptioneasy_right { margin: 11px 0 11px 11px; float: right; }
+.imagecaptioneasy_nowrap { margin: 11px 0 11px 0; float: none; }
